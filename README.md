@@ -19,3 +19,5 @@
 <img src="https://github.com/abhay-2105/Team-Techus/blob/master/fest%20ss/ss%20(2).png" height=450 width=220>  <img src="https://github.com/abhay-2105/Team-Techus/blob/master/fest%20ss/ss%20(3).png" height=450 width=220>  <img src="https://github.com/abhay-2105/Team-Techus/blob/master/fest%20ss/ss%20(4).png" height=450 width=220>
 
 <img src="https://github.com/abhay-2105/Team-Techus/blob/master/fest%20ss/ss%20(5).png" height=450 width=220>  <img src="https://github.com/abhay-2105/Team-Techus/blob/master/fest%20ss/ss%20(24).png" height=450 width=220>  <img src="https://github.com/abhay-2105/Team-Techus/blob/master/fest%20ss/ss%20(1).png" height=450 width=220>
+
+<img src="https://github.com/abhay-2105/learningGIt-Github/blob/master/ss%20(25).png" height=450 width=220>  <img src="https://github.com/abhay-2105/learningGIt-Github/blob/master/ss%20(26).png" height=450 width=220>  <img src="https://github.com/abhay-2105/learningGIt-Github/blob/master/ss%20(27).png" height=450 width=220>
